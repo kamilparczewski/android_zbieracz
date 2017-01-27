@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Zbieracz</string>
+    <string name="firstname">Imię</string>
+    <string name="lastname">Nazwisko</string>
+    <string name="date">Data urodzenia</string>
+    <string name="next">Dalej</string>
+    <string name="pick_date">Ustaw date</string>
+    <string name="add_photo">Dodaj zdjęcie</string>
+    <string name="add">Dodaj</string>
+    <string name="save">Zapisz</string>
+    <string name="delete">Usuń</string>
+</resources>
